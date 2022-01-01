@@ -12,6 +12,7 @@ render()
             >
             <Text style={{fontSize :20}}>Add New EW</Text>
           </TouchableOpacity> */}
+
            
 
           <Image
