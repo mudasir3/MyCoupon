@@ -38,6 +38,7 @@ render()
             <View style ={{flexDirection:'row',marginLeft:30}}>
                 <Text style={{fontSize :20}}>Enable Biometric</Text>
                 <Switch
+
                     style={{marginLeft:97}}
                     value={this.state.BiometricSwitchState}
                     onValueChange={this.onSwitchValueChange}
