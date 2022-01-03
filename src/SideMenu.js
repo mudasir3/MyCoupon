@@ -42,7 +42,7 @@ class SideMenu extends Component {
         this.setState({
          phone_number :res.data.data.user_details.mobile_number
         })
-         
+       
      })
      .catch(e => { 
        console.log("error", e);
