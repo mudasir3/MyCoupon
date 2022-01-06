@@ -48,7 +48,7 @@ class SideMenu extends Component {
        console.log("error", e);
      });
   
-   
+ 
   }
 
   getSettings = async() =>
