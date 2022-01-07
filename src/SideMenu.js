@@ -83,7 +83,6 @@ class SideMenu extends Component {
     }));
   }
 
-
   _handleToggleSwitch2 = () =>{
     console.log("switch 2" + this.state.switchValue2 )
 
