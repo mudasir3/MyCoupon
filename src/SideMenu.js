@@ -88,6 +88,7 @@ class SideMenu extends Component {
 
     set(!this.state.switchValue2,"biometricSettings")
 
+
     this.setState(state => ({
       switchValue2: !state.switchValue2
     }));
