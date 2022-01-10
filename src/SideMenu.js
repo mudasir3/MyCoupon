@@ -103,7 +103,6 @@ class SideMenu extends Component {
   }
 
    navigateToMerchantScreen = (route) => () => {
-
     set(1 , 'loginmerchant').then(res=>{
 
       const navigateAction = NavigationActions.navigate({
