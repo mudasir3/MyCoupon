@@ -127,7 +127,7 @@ class SideMenu extends Component {
                 }>
                 Login as Merchant
               </Text>
-            
+           
               <View style={{ flexDirection: 'row', justifyContent: 'space-between', width: '90%'}}>
               <Text style={styles.navItemStyle}>
                 Turn Notifications
