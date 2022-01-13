@@ -148,7 +148,6 @@ class SideMenu extends Component {
                 value={this.state.switchValue2}
                 />
               </View>
-
               <View style={{ flexDirection: 'row', justifyContent: 'space-between', width: '100%'}}>
               <Text style={styles.navItemStyle}>
                 Current number: 
