@@ -158,7 +158,6 @@ class SideMenu extends Component {
               </Text>
 
               </View>
-
               <Text style={styles.navItemStyle} onPress={  
                 this.navigateToScreen('SignOut')
                 }>
