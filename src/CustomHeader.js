@@ -5,6 +5,7 @@ export default class CustomHeader extends Component {
 render()
     {
     return (
+
   <View style={styles.container}> 
             {/* <TouchableOpacity
             style={{borderColor: '#aaaaaa',width :150,padding:15,alignItems: 'center',justifyContent: 'center',borderRadius:30,borderWidth:1}}
