@@ -167,8 +167,6 @@ class SideMenu extends Component {
               </View>
           
 
-
-
       </View>
     );
   }
