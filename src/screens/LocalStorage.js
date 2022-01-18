@@ -16,7 +16,6 @@ const get = async(key) =>  {
         throw 'null'
      }
      console.log("value " + value);
-
      return value
     } catch (error) {
         if(error === 'null') {
