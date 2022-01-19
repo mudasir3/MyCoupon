@@ -25,5 +25,4 @@ const get = async(key) =>  {
     }
   };
   
-  
     export {set,get };
