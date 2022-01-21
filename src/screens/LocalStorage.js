@@ -24,5 +24,4 @@ const get = async(key) =>  {
       console.log("errorr " + error);
     }
   };
-  
     export {set,get };
