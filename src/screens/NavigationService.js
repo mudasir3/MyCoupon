@@ -21,7 +21,6 @@ export default {
   navigate,
   setTopLevelNavigator,
 };
-
 // const prefix = Platform.OS == 'android' ? 'myapp://' : 'myapp://';
 // const App = createAppContainer(AppNavigator)
 // const MainApp = () => <App uriPrefix={prefix} />;
