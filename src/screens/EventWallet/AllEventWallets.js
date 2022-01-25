@@ -11,7 +11,6 @@ import LinearGradient from 'react-native-linear-gradient';
 
 import {getAllEW,JoinEW,UserDetail,checkDevice,signOut,CustomerAllJoinedEW,getArchivedCustomers,getEWDetails} from "../API/ApiActions";
 import {get,set} from "../LocalStorage";
-
 import { withNavigation } from 'react-navigation';
 
 import Spinner from 'react-native-loading-spinner-overlay';
