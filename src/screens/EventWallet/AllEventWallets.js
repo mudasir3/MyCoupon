@@ -15,7 +15,6 @@ import { withNavigation } from 'react-navigation';
 
 import Spinner from 'react-native-loading-spinner-overlay';
 import GestureRecognizer, {swipeDirections} from 'react-native-swipe-gestures';
-
 import DeviceInfo from 'react-native-device-info';
 import { ConfirmDialog } from 'react-native-simple-dialogs';
 import { NavigationEvents } from 'react-navigation';
