@@ -20,8 +20,6 @@ import { ConfirmDialog } from 'react-native-simple-dialogs';
 import { NavigationEvents } from 'react-navigation';
 
 var _this;
-
-
 class AllEventWalletsScreen extends Component {
 
   constructor(props) {
