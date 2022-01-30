@@ -34,7 +34,6 @@ render()
     {
     return (
       <View style={styles.container}> 
-
         <View >
             <View style ={{flexDirection:'row',marginLeft:30}}>
                 <Text style={{fontSize :20}}>Enable Biometric</Text>
